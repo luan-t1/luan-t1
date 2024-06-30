@@ -3,7 +3,7 @@
 <p>
   Estou cursando o curso de Ciências da Computação na Universidade Federal do Cariri(UFCA) <br>
 
-  Na minha jornada, já fiz iniciação ciêntífica na universidade, no campo de teoria da computação. Participei dos estágios
+  Na minha jornada, já fiz iniciação científica na universidade, no campo de teoria da computação. Participei dos estágios
   de Residência em TIC, em que desenvolvi chatbot com o gpt/python, e o estágio da Compass Uol, em que obtive conhecimentos
   de FullStack em JavaScript e Cloud da AWS. <br>
 
