@@ -34,4 +34,4 @@
 
 
 
-[![Linkedin: luan-t1](https://img.shields.io/badge/-andrebaltieri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-t1/)](https://www.linkedin.com/in/luan-t1/)
+[![Linkedin: luan-t1](https://img.shields.io/badge/-luan-t1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-t1/)](https://www.linkedin.com/in/luan-t1/)
