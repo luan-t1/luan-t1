@@ -15,10 +15,12 @@
 <p>
   Alguns tópicos que estou estudando:
 </p>
-* Identity .NET
-* .NET Aspire
-* Testes Unitários
-* Extension Methods
+<ul>
+<li>Identity .NET</li>
+<li>.NET Aspire</li>
+<li>Testes Unitários</li>
+<li>Extension Methods</li>
+  </ul>
 <hr>
 
 <div style="display: inline_block">
